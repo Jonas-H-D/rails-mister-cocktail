@@ -3,5 +3,14 @@
 #
 # Examples:
 #
+Ingredient.create(name: "lemon")
+Ingredient.create(name: "ice")
+Ingredient.create(name: "mint leaves")
+Ingredient.create(name: "vodka")
+Ingredient.create(name: "rhum")
+Ingredient.create(name: "soda water")
+Ingredient.create(name: "coffee")
+Ingredient.create(name: "sugar syrup")
+Ingredient.create(name: "cinnamon")
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
